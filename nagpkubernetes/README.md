@@ -21,4 +21,4 @@ MongoDb:-         https://hub.docker.com/_/mongo
 
 API URL:-         http://localhost:31000/swagger/index.html  
 
-Github Repository URL:- 
+Github Repository URL:- https://github.com/pankaj02nagarro/kubernetes-assignment
